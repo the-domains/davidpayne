@@ -1,0 +1,28 @@
+name: davidpayne
+favicon: null
+layout_spectrum: 0.9745236372109503
+typography_spectrum: 0.3769957390613854
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8938229256309569
+  lightness: 0.7699263591784984
+  saturation: 0.8643493063282222
+  rhythmicContrast: 0.19179971888661385
+purpose: []
